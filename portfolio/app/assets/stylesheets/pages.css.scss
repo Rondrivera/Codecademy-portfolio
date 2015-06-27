@@ -2,4 +2,8 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 //font-family: 'Roboto', sans-serif;
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+//<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+.banner { position: relative; overflow: 
+auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
